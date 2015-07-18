@@ -5,3 +5,4 @@ Allows you to search on tags, world zones and user (info and timeline)
 
 // For info:
 http://geotweet.altervista.org
+ 
