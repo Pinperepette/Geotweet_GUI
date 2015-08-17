@@ -22,6 +22,8 @@ sudo pip install ca_certs_locater
 sudo pip install python-instagram
 python ./Geotweet.py
 ```
+##  -     -     -     -     -     -     -     -     -
+
 ![alt tag](https://pbs.twimg.com/media/B96X3erCcAErsyf.jpg:large)
 
 ##  -     -     -     -     -     -     -     -     -
