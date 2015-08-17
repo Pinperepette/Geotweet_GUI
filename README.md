@@ -9,7 +9,7 @@ Allows you to search on tags, world zones and user (info and timeline)
 * PyQt4, tweepy, geopy, ca_certs_locater, python-instagram
 * Works on Linux, Windows, Mac OSX, BSD
 
-##   -   +   -   +   -   +   -   +   -   +   -
+##   x   +   x   +   x   +   x   +   x   +   x
 <dl>
   <dt>For more information</dt>
   </dl> 
