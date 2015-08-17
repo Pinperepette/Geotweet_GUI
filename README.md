@@ -9,6 +9,21 @@ Allows you to search on tags, world zones and user (info and timeline)
 * PyQt4, tweepy, geopy, ca_certs_locater, python-instagram
 * Works on Linux, Windows, Mac OSX, BSD
 
+## Installation example of kali or Backbox
+
+``` shell
+git clone https://github.com/Pinperepette/Geotweet_GUI.git
+cd Geotweet_GUI
+chmode +x Geotweet.py
+sudo apt-get install python-pip
+sudo pip install tweepy
+sudo pip install geopy
+sudo pip install ca_certs_locater
+sudo pip install python-instagram
+python ./Geotweet.py
+```
+
+
 ##  -     -     -     -     -     -     -     -     -
 <dl>
   <dt>For more information</dt>
