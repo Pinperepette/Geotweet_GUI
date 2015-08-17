@@ -4,7 +4,7 @@ Another way to use Twitter and instagram.
 Geotweet is an osint application that allows you to track tweets and instagram and trace geographical locations and then export to google maps.
 Allows you to search on tags, world zones and user (info and timeline)
 
-// For info:
+## For info:
 [Official site](http://geotweet.altervista.org)
  
 ## Requirements
