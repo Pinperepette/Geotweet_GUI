@@ -5,7 +5,7 @@ Geotweet is an osint application that allows you to track tweets and instagram a
 Allows you to search on tags, world zones and user (info and timeline)
 
 // For info:
-http://geotweet.altervista.org
+[Official site](http://geotweet.altervista.org)
  
 ## Requirements
 * Python 2.7
