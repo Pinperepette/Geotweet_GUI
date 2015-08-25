@@ -16,10 +16,7 @@ git clone https://github.com/Pinperepette/Geotweet_GUI.git
 cd Geotweet_GUI
 chmode +x Geotweet.py
 sudo apt-get install python-pip
-sudo pip install tweepy
-sudo pip install geopy
-sudo pip install ca_certs_locater
-sudo pip install python-instagram
+sudo pip install -r requirements.txt
 python ./Geotweet.py
 ```
 ##  -     -     -     -     -     -     -     -     -
