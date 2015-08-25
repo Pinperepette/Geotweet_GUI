@@ -14,7 +14,7 @@ Allows you to search on tags, world zones and user (info and timeline)
 ``` shell
 git clone https://github.com/Pinperepette/Geotweet_GUI.git
 cd Geotweet_GUI
-chmode +x Geotweet.py
+chmod +x Geotweet.py
 sudo apt-get install python-pip
 sudo pip install -r requirements.txt
 python ./Geotweet.py
