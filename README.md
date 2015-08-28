@@ -20,8 +20,7 @@ sudo pip install -r requirements.txt
 python ./Geotweet.py
 ```
 ##  -     -     -     -     -     -     -     -     -
-
-![alt tag](https://pbs.twimg.com/media/B96X3erCcAErsyf.jpg:large)
+[![VIDEO TUTORIAL](http://www.habernedir.com/imajlar/video-player.png)](https://www.youtube.com/watch?v=tB_p7gVWsks)
 
 ##  -     -     -     -     -     -     -     -     -
 <dl>
