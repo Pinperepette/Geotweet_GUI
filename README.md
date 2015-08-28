@@ -26,7 +26,7 @@ python ./Geotweet.py
 
 ## VIDEO TUTORIAL 
 
-[![VIDEO TUTORIAL](http://www.habernedir.com/imajlar/video-player.png)](https://www.youtube.com/watch?v=tB_p7gVWsks)
+[![VIDEO TUTORIAL](https://farm6.staticflickr.com/5745/20334266814_53eb4cf1f4_b.jpg)](https://www.youtube.com/watch?v=tB_p7gVWsks)
 
 ##  -     -     -     -     -     -     -     -     -
 <dl>
