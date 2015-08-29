@@ -11,7 +11,7 @@ Allows you to search on tags, world zones and user (info and timeline)
 * Python 2.7
 * PyQt4, tweepy, geopy, ca_certs_locater, python-instagram
 
-##Works on Linux, Windows, Mac OSX, BSD
+###Works on Linux, Windows, Mac OSX, BSD
 
 ## Installation example of Backbox or kali
 
