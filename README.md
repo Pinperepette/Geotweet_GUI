@@ -1,4 +1,4 @@
-# Geotweet_GUI
+# Geotweet_GUI #OSINT #GEOLOCATION
 
 ![alt tag](https://pbs.twimg.com/media/B96X3erCcAErsyf.jpg:large)
 
