@@ -1,4 +1,4 @@
-## #OSINT #GEOLOCATION #TWITTER #INSTAGRAM #MAC #LINUX #WINDOWS
+## #OSINT #GEOLOCATION #TWITTER #INSTAGRAM
 
 ![alt tag](https://pbs.twimg.com/media/B96X3erCcAErsyf.jpg:large)
 
