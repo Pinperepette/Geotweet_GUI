@@ -1,0 +1,4 @@
+tweepy
+geopy
+ca_certs_locater
+python-instagram

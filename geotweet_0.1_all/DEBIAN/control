@@ -1,0 +1,15 @@
+Package: geotweet
+Version: 0.1-parrot0
+Architecture: all
+Maintainer: Lorenzo EclipseSparl Faletra <eclipse@frozenbox.org>
+Installed-Size: 182
+Depends: python-geopy, python-tweepy, python-ca-certs-locater, python-python-instagram
+Section: security
+Priority: optional
+Description: Geotweet - Another way to use Twitter and instagram.
+ Another way to use Twitter and instagram.
+ .
+ Geotweet is an osint application that allows you
+ to track tweets and instagram and trace geographical
+ locations and then export to google maps.
+ Allows you to search on tags, world zones and user (info and timeline)
