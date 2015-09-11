@@ -19,7 +19,7 @@ Allows you to search on tags, world zones and user (info and timeline)
 
 ``` shell
 git clone https://github.com/Pinperepette/Geotweet_GUI.git
-cd Geotweet_GUI
+cd Geotweet_GUI/geotweet_0.1_all/usr/share/geotweet
 chmod +x Geotweet.py
 sudo apt-get install python-pip
 sudo pip install -r requirements.txt
@@ -27,13 +27,21 @@ python ./Geotweet.py
 ```
 ##  -     -     -     -     -     -     -     -     -
 
-## Debian/Ubuntu Installation 
+## Debian/Ubuntu quick Installation 
 
 ``` shell
 git clone https://github.com/Pinperepette/Geotweet_GUI.git
 cd Geotweet_GUI
 sudo dpkg -i *.deb
 sudo apt-get -f install
+```
+##  -     -     -     -     -     -     -     -     -
+
+## Parrot Installation 
+
+``` shell
+sudo apt-get update
+sudo apt-get install geotweet
 ```
 ##  -     -     -     -     -     -     -     -     -
 
