@@ -15,7 +15,7 @@ Allows you to search on tags, world zones and user (info and timeline)
 ###          Works on Linux, Windows, Mac OSX, BSD
 ###--------------------------------------------------------------------------
 
-## Installation example of Backbox or kali
+## Generic Installation 
 
 ``` shell
 git clone https://github.com/Pinperepette/Geotweet_GUI.git
@@ -24,6 +24,25 @@ chmod +x Geotweet.py
 sudo apt-get install python-pip
 sudo pip install -r requirements.txt
 python ./Geotweet.py
+```
+##  -     -     -     -     -     -     -     -     -
+
+## Debian/Ubuntu Installation 
+
+``` shell
+git clone https://github.com/Pinperepette/Geotweet_GUI.git
+cd Geotweet_GUI
+sudo dpkg -i *.deb
+sudo apt-get -f install
+```
+##  -     -     -     -     -     -     -     -     -
+
+
+## DEB Build
+
+``` shell
+cd Geotweet_GUI
+sh build.sh -b geotweet_{version}_all
 ```
 ##  -     -     -     -     -     -     -     -     -
 
